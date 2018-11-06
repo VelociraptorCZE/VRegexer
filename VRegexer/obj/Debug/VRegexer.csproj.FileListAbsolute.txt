@@ -1,0 +1,10 @@
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\bin\Debug\VRegexer.exe.config
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\bin\Debug\VRegexer.exe
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\bin\Debug\VRegexer.pdb
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.csprojAssemblyReference.cache
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.Properties.Resources.resources
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.csproj.GenerateResource.cache
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.csproj.CoreCompileInputs.cache
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.exe
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.pdb
+C:\_C#_proj\VRegexer\VRegexer\VRegexer\obj\Debug\VRegexer.VRegexer.resources
